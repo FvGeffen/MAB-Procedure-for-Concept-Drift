@@ -4,7 +4,7 @@ A Multi-Armed BanditProcedure to Handle ConceptDrift in Regression Problems - Th
 To replicate this thesis, please use the IPYNB files. Make sure that you run the IPYNB files sequantially. 
 To run the IPYNB files create a 'main' folder that contains all the IPYNB files, a 'Raw_data' folder that contains the
 taxi_zones folder (retrieved from https://s3.amazonaws.com/nyc-tlc/misc/taxi_zones.zip), a 'Data' folder, a 'Results' folder,
-and a 'Models folder. Subsequently, you can sequentially run the IPYNB files.
+and a 'Models' folder. Subsequently, you can sequentially run the IPYNB files.
 
 Schematic overview:
 - Main
