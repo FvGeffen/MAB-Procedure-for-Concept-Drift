@@ -1,5 +1,5 @@
 # MAB-Procedure-for-Concept-Drift
-A Multi-Armed Bandit Procedure to Handle ConceptDrift in Regression Problems - Thesis Statistical Science - S2633256
+A Multi-Armed Bandit Procedure to Handle Concept Drift in Regression Problems - Thesis Statistical Science - S2633256
 
 To replicate this thesis, please use the IPYNB files. Make sure that you run the IPYNB files sequantially. 
 To run the IPYNB files create a 'main' folder that contains all the IPYNB files, a 'Raw_data' folder that contains the
